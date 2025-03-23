@@ -1,4 +1,4 @@
-# main.py
+
 from shiny import App, ui, render, input, session
 import os
 from functions import process_zip_and_umap
